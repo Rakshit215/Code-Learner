@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CodeLearner</string>
+    <string name="addnew">Edit</string>
+    <string name="compile">Compile</string>
+    <string name="run">Run</string>
+    <string name="Check">Check</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_t">TActivity</string>
+    <string name="title_activity_prog">ProgActivity</string>
+    <string name="title_activity_img">ImgActivity</string>
+    <string name="title_activity_view_notes">ViewNotesActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_view_notes1">ViewNotes1Activity</string>
+    <string name="title_activity_edit_content">EditContentActivity</string>
+    <string name="title_activity_net">NetActivity</string>
+
+</resources>

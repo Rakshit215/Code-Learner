@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.major.nawabs.codelearner.ViewNotesActivity" >
+
+    <item
+        android:id="@+id/addnew"
+        android:orderInCategory="100"
+        android:title="@string/addnew"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/compile"
+        android:orderInCategory="100"
+        android:title="@string/compile"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/run"
+        android:orderInCategory="100"
+        android:title="@string/run"
+        app:showAsAction="never"/>
+    
+</menu>
